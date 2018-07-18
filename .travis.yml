@@ -2,7 +2,6 @@ language: cpp
 compiler: gcc
 os: 
     - linux
-dist: trusty
 
 before_install:
     - echo $TRAVIS_OS_NAME
